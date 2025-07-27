@@ -1,0 +1,15 @@
+C:\dev\MohirDev\HomeWork\OOP\1\bin\Debug\net9.0\1.exe
+C:\dev\MohirDev\HomeWork\OOP\1\bin\Debug\net9.0\1.deps.json
+C:\dev\MohirDev\HomeWork\OOP\1\bin\Debug\net9.0\1.runtimeconfig.json
+C:\dev\MohirDev\HomeWork\OOP\1\bin\Debug\net9.0\1.dll
+C:\dev\MohirDev\HomeWork\OOP\1\bin\Debug\net9.0\1.pdb
+C:\dev\MohirDev\HomeWork\OOP\1\obj\Debug\net9.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MohirDev\HomeWork\OOP\1\obj\Debug\net9.0\1.AssemblyInfoInputs.cache
+C:\dev\MohirDev\HomeWork\OOP\1\obj\Debug\net9.0\1.AssemblyInfo.cs
+C:\dev\MohirDev\HomeWork\OOP\1\obj\Debug\net9.0\1.csproj.CoreCompileInputs.cache
+C:\dev\MohirDev\HomeWork\OOP\1\obj\Debug\net9.0\1.sourcelink.json
+C:\dev\MohirDev\HomeWork\OOP\1\obj\Debug\net9.0\1.dll
+C:\dev\MohirDev\HomeWork\OOP\1\obj\Debug\net9.0\refint\1.dll
+C:\dev\MohirDev\HomeWork\OOP\1\obj\Debug\net9.0\1.pdb
+C:\dev\MohirDev\HomeWork\OOP\1\obj\Debug\net9.0\1.genruntimeconfig.cache
+C:\dev\MohirDev\HomeWork\OOP\1\obj\Debug\net9.0\ref\1.dll

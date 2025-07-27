@@ -9,11 +9,16 @@ class Book
     public Book(string name, string Author, double price)
     {
         _name = name;
+        _author = Author;
         _price = price;
     }
 
     public string Name => _name;
-    public double Price { get; set; }
+    public double Price
+    {
+        get => _price;
+        set => _price = value;
+    }
     public string Author => _author;
 
 
